@@ -1,6 +1,12 @@
 --- 
 cursor_positions: 
+  - :path: README.markup
+    :cursor_offset: 0
+    :timestamp: 2012-05-06 17:56:30.762000 -05:00
   - :path: Gemfile
     :cursor_offset: 156
     :timestamp: 2012-05-06 13:39:01.378000 -05:00
+  - :path: README.rdoc
+    :cursor_offset: 0
+    :timestamp: 2012-05-06 13:27:36.042000 -05:00
 files_to_retain: 0
